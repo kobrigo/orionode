@@ -12,7 +12,7 @@ A minimal, single-user deployment of [Eclipse Orion](http://www.eclipse.org/orio
 
 ## Requirements
 * node.js (plus npm)
-* A web browser
+* A modern web browser with Web Socket support (for example: Firefox 15, Chrome 22, Internet Explorer 10, Safari 6)
 
 ## Known Issues
 * Missing file operations: import and export.
